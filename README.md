@@ -1,6 +1,6 @@
  
 <!--
-**namat98/namat98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**isshort/isshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namat98&count_private=true) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namat98&count_private=true&show_icons=true&theme=tokyonight)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isshort&count_private=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isshort&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namat98&layout=compact&theme=radical)](https://github.com/namat98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isshort&layout=compact&theme=radical)](https://github.com/isshort/github-readme-stats)
  
