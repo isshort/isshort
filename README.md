@@ -13,4 +13,4 @@ Hi, I'm Nematullah 👋
     ⚡ Fun fact: I build large-scale systems as a solo tech unit powered by AI tools
  
  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isshort&layout=compact&theme=radical)](https://github.com/isshort/github-readme-stats)
+   
