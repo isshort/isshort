@@ -1,6 +1,4 @@
 Hi, I'm Nematullah 👋
-
-    🔭 I’m currently working on MOAM’s digital logistics platform (Core, Cargo, Courier, WMS)
     
     🌱 I’m currently learning advanced system architecture, DevOps automation, and AI-assisted development
     
